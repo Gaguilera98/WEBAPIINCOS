@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebApiINCOS.Areas.HelpPage.ModelDescriptions.CollectionModelDescription" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\CollectionModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Areas.HelpPage.ModelDescriptions.ComplexTypeModelDescription" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Areas.HelpPage.ModelDescriptions.ModelDescription" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Areas.HelpPage.ModelDescriptions.SimpleTypeModelDescription" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Controllers.CursoController" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAABEAgBAkAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CursoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.AsignacionMateriaDocente">
+    <Position X="16.25" Y="14" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAEAASAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\AsignacionMateriaDocente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.AsignacionMateriaEstudiante">
+    <Position X="11.5" Y="14" Width="2.25" />
+    <InheritanceLine Type="Sqlsever.Acceso.Conexion" ManuallyRouted="true">
+      <Path>
+        <Point X="18.25" Y="8.312" />
+        <Point X="18.25" Y="9.125" />
+        <Point X="16.938" Y="9.125" />
+        <Point X="16.938" Y="13.37" />
+        <Point X="12.625" Y="13.37" />
+        <Point X="12.625" Y="14" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAEAAQAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\AsignacionMateriaEstudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Aula">
+    <Position X="26.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Aula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.cadenaConexion" Collapsed="true">
+    <Position X="25.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datos\cadenaConexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Carrera">
+    <Position X="19.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAAAASAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Carrera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Consolidado" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAACAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Consolidado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Curso">
+    <Position X="21.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAEAASAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Docente">
+    <Position X="15" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAEAASAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Estudiante">
+    <Position X="11.75" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAEAASAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Evaluacion">
+    <Position X="21" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAEAASAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Evaluacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.ListaEstudianteConsolidado" Collapsed="true">
+    <Position X="14.25" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAQAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datos\ListaEstudianteConsolidado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Materia">
+    <Position X="17.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAEAAAEAASAQAAAAAAAAAACAAAAAABAAABAA=</HashCode>
+      <FileName>Datos\Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Paralelo">
+    <Position X="24" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAEAACAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Paralelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Datos.Usuario" Collapsed="true">
+    <Position X="19" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAQAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Datos\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.AsignacionDocenteMateriaCreacionDto" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Transferencia\AsignacionDocenteMateriaCreacionDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.AsignacionDocenteMateriaCreacionDtoMaterias" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\AsignacionDocenteMateriaCreacionDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.AsignacionMateriaDocenteTR" Collapsed="true">
+    <Position X="21" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAQAAAAACAAAIAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Transferencia\AsignacionMateriaDocenteTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.AsignacionMateriaEstudianteCreacionDTO" Collapsed="true">
+    <Position X="26.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAI=</HashCode>
+      <FileName>Transferencia\AsignacionMateriaEstudianteCreacionDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.AsignacionMateriasDocente" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\AsignacionMateriaEstudianteCreacionDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.AsignacionMateriaEstudianteTR" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCgAAAQAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Transferencia\AsignacionMateriaEstudianteTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.AulaTR" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Transferencia\AulaTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.CarreraTR" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\CarreraTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.ConsolidadoTR" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgIAAAAAAAAAAAAAAAAABAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\ConsolidadoTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.CursoTR" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\CursoTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.DocenteTR" Collapsed="true">
+    <Position X="27.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABGAAAAgAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\DocenteTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.EstudianteTR">
+    <Position X="8.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABGAAAAgAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\EstudianteTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.EvaluacionTR" Collapsed="true">
+    <Position X="27.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABDgAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Transferencia\EvaluacionTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.ListaEstudianteConsolidadoTR" Collapsed="true">
+    <Position X="13" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\ListaEstudianteConsolidadoTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.ObtenerListaEstudianteCondolidadoTR" Collapsed="true">
+    <Position X="15.5" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\ListaEstudianteConsolidadoTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.MateriaTR" Collapsed="true">
+    <Position X="27.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAAAAAACAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\MateriaTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.ParaleloTR" Collapsed="true">
+    <Position X="22.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\ParaleloTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApiINCOS.Transferencia.UsuarioTR" Collapsed="true">
+    <Position X="20.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABGAAAAAAAAAKAAAACAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Transferencia\UsuarioTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sqlsever.Acceso.Conexion" Collapsed="true">
+    <Position X="17.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
